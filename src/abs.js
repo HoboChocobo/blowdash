@@ -1,0 +1,1 @@
+export const abs = (value) => Math.abs(value);

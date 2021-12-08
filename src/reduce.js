@@ -1,0 +1,1 @@
+export const reduce = (reducer) => (initialValue) => (array) => array.reduce(reducer, initialValue);

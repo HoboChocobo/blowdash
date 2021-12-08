@@ -1,0 +1,1 @@
+export const filter = (filterFunction) => (array) => array.filter(filterFunction);

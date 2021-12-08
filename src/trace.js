@@ -1,0 +1,1 @@
+export const trace = (input) => console.log(input) || input;

@@ -1,0 +1,1 @@
+export const gte = (x) => (y) => y >= x;

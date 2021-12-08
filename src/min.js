@@ -1,0 +1,1 @@
+export const min = (array) => array.reduce((min, cur) => cur < min ? cur : min);

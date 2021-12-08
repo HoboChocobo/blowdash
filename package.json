@@ -1,0 +1,16 @@
+{
+  "name": "blowdash",
+  "version": "0.0.2",
+  "description": "Like lodash but worse.",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoboChocobo/blowdash.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HoboChocobo/blowdash/issues"
+  },
+  "homepage": "https://github.com/HoboChocobo/blowdash#readme"
+}

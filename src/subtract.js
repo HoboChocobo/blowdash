@@ -1,0 +1,1 @@
+export const subtract = (subtrahend) => (minuend) => minuend - subtrahend;

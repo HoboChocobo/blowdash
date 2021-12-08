@@ -1,0 +1,1 @@
+export const max = (array) => array.reduce((max, cur) => cur > max ? cur : max);
